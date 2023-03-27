@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **React and NextJs**
 
-- 👨‍💻 All of my projects are available at [https://weblogiq.nl](https://weblogiq.nl)
+- 👨‍💻 All of my projects are available at [https://denniskortekaas.nl](https://denniskortekaas.nl)
 
-- 📝 I regularly write articles on [https://weblogiq.nl/blog](https://weblogiq.nl/blog)
+- 📝 I regularly write articles on [https://denniskortekaas.nl/blog](https://denniskortekaas.nl/blog)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
