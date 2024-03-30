@@ -1,11 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dennis Kortekaas</h1>
-<h3 align="center">A passionate full-stack developer from the Netherlands</h3>
-
-- 🌱 I’m currently learning **React and NextJs**
-
-- 👨‍💻 All of my projects are available at [https://denniskortekaas.nl](https://denniskortekaas.nl)
-
-- 📝 I regularly write articles on [https://denniskortekaas.nl/blog](https://denniskortekaas.nl/blog)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
